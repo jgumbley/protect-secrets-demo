@@ -21,7 +21,6 @@ ENV/
 
 # IMPORTANT: Ignore configuration files containing secrets
 # This is a critical security practice to prevent secrets from being committed
-config.py
 
 # Logs
 *.log
